@@ -1,5 +1,7 @@
 # Base-AntiAFK-WoW
-Anti-AFK Python script for World of Warcraft
+Anti-AFK Python script for World of Warcraft with random keypresses between W,A,S,D and Space. Random time in between presses and random key hold times.
+
+Use at own risk. 
 
 # Prerequisites / Dependencies
 1. Python: https://www.python.org/downloads/
