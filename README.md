@@ -3,6 +3,8 @@ Anti-AFK Python script for World of Warcraft with random keypresses between W,A,
 
 Use at own risk. 
 
+Co-Author: @MackerHan
+
 # Prerequisites / Dependencies
 1. Python: https://www.python.org/downloads/
 2. pyautogui `pip3 install pyautogui` 
