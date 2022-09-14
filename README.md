@@ -1,4 +1,4 @@
-# Base-AntiAFK-WoW
+# Wow WoTLK Classic AntiAFK Script
 Anti-AFK Python script for World of Warcraft WoTLK Classic with random keypresses between W,A,S,D and Space. Random time in between presses and random key hold times.
 
 Adding automatic reconnect after server disconnect soon. 
