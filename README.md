@@ -14,5 +14,5 @@ Co-Author: @MackerHan
 # Run script (Windows)
 1. Copy directory of script and open CMD
 2. Type in CMD: `cd "directory"`
-3. Type in CMD `python BaseAFK.py`
+3. Type in CMD `python WAFK.py`
 4. The script should now be running.  
